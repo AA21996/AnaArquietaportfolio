@@ -15,7 +15,7 @@ const CONFIG = {
   whatsapp: "528113975052",                         // solo dígitos, con código de país (wa.me)
   phone: "+528113975052",
   linkedin: "https://www.linkedin.com/in/anavgarquieta",
-  flipbookUrl: "https://heyzine.com/flip-book/02efce62a3.html",
+  flipbookUrl: "https://heyzine.com/flip-book/0fae8a8d1c.html",
   pdfjs: {
     // Debe coincidir con la versión del <script> de PDF.js en index.html
     workerSrc: "https://cdnjs.cloudflare.com/ajax/libs/pdf.js/3.11.174/pdf.worker.min.js"
